@@ -1,7 +1,0 @@
-Este es el archivo final de este proyecto para los de informatica
-
-aqui pondremos todo lo visto anteriormente
-
-y por ultimo fusionaremos todos los archivos en un unico proyecto
-
-Una vez puesto todo lo anterior seguiremos avanzando en el siguiente proyecto
