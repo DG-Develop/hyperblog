@@ -1,5 +1,5 @@
-Este es el archivo final de este proyecto
+Este es el archivo final de este proyecto para los de informatica
 
-aqui pondremos todo lo modificado anteriormente
+aqui pondremos todo lo visto anteriormente
 
-y por ultimo fusionaremos todos los archivos
+y por ultimo fusionaremos todos los archivos en un unico proyecto
